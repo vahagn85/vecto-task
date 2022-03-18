@@ -1,0 +1,7 @@
+.img_wrap {
+  padding: 0 8px;
+  cursor: pointer;
+}
+.img_wrap img {
+  width: 100%;
+}

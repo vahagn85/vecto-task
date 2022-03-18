@@ -9,7 +9,7 @@ const MovieItem = ({ cover, name, movieId }) => {
   };
   return (
     <div className={styles.img_wrap} onClick={() => movieHandler(movieId)}>
-      <img src={`/assets/${cover}`} alt={name} />
+      <img src={process.env.PUBLIC_URL + `/assets/${cover}`} alt={name} />
     </div>
   );
 };

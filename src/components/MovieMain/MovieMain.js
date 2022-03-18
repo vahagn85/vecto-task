@@ -29,14 +29,14 @@ const MovieMain = () => {
           <span
             className={styles.bg}
             style={{
-              backgroundImage: `url("/assets/${featured.CoverImage}")`,
+              backgroundImage: `url("${process.env.PUBLIC_URL}/assets/${featured.CoverImage}")`,
             }}
           />
           <div className={styles.main_info}>
             <div className={styles.category}>{featured.Category}</div>
             <div className={styles.logo}>
               <img
-                src={`/assets/${featured.TitleImage}`}
+                src={process.env.PUBLIC_URL + `/assets/${featured.TitleImage}`}
                 alt={featured.Title}
               />
             </div>

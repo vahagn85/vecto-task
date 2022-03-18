@@ -82,7 +82,10 @@ const Menu = () => {
         <ul className={cn("list-unstyled", styles.menu_hover_list)}>
           <li className={styles.user_item}>
             <div className={styles.user_photo}>
-              <img src="/assets/Sung-Gi-Hoon.png" alt="user" />
+              <img
+                src={process.env.PUBLIC_URL + "/assets/Sung-Gi-Hoon.png"}
+                alt="user"
+              />
             </div>
 
             <span className={styles.user_name}>Daniel</span>

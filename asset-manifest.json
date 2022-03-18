@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/vecto-task/static/css/main.6995c47f.css",
-    "main.js": "/vecto-task/static/js/main.8bccaf49.js",
-    "static/js/787.fdc32c6b.chunk.js": "/vecto-task/static/js/787.fdc32c6b.chunk.js",
-    "static/media/slick.svg": "/vecto-task/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/vecto-task/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/vecto-task/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/vecto-task/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/vecto-task/index.html",
-    "main.6995c47f.css.map": "/vecto-task/static/css/main.6995c47f.css.map",
-    "main.8bccaf49.js.map": "/vecto-task/static/js/main.8bccaf49.js.map",
-    "787.fdc32c6b.chunk.js.map": "/vecto-task/static/js/787.fdc32c6b.chunk.js.map"
+    "main.css": "https://vahagn85.github.io/vecto-task/static/css/main.9b170543.css",
+    "main.js": "https://vahagn85.github.io/vecto-task/static/js/main.4b6778b7.js",
+    "static/js/787.fdc32c6b.chunk.js": "https://vahagn85.github.io/vecto-task/static/js/787.fdc32c6b.chunk.js",
+    "static/media/slick.svg": "https://vahagn85.github.io/vecto-task/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "https://vahagn85.github.io/vecto-task/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "https://vahagn85.github.io/vecto-task/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "https://vahagn85.github.io/vecto-task/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "https://vahagn85.github.io/vecto-task/index.html",
+    "main.9b170543.css.map": "https://vahagn85.github.io/vecto-task/static/css/main.9b170543.css.map",
+    "main.4b6778b7.js.map": "https://vahagn85.github.io/vecto-task/static/js/main.4b6778b7.js.map",
+    "787.fdc32c6b.chunk.js.map": "https://vahagn85.github.io/vecto-task/static/js/787.fdc32c6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6995c47f.css",
-    "static/js/main.8bccaf49.js"
+    "static/css/main.9b170543.css",
+    "static/js/main.4b6778b7.js"
   ]
 }
